@@ -1,0 +1,27 @@
+{
+  "name": "Eddie Jaoude",
+  "bio": "Budding Software Developer",
+  "links": [
+    {
+      "group": "Socials Primary",
+      "name": "LinkedIn: Follow me",
+      "url": "http://www.linkedin.com/in/muoka-janefrancis-47b591144",
+      "icon": "FaLinkedIn"
+      "color": "#0A66C2"
+    }
+    {
+      "group": "Socials Primary",
+      "name": "Twitter: Follow me",
+      "url": "https://twitter.com/JaneFon51613413",
+      "icon": "FaTwitter",
+      "color": "#00ACEE"
+    }
+    {
+      "group": "Socials Primary",
+      "name": "Instagram: Follow me",
+      "url": "https://www.instagram.com/muokaadaora/",
+      "icon": "FaInstagram",
+      "color": "#c13584"
+    },
+  ]
+}
